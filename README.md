@@ -1,24 +1,9 @@
-# README
+# MetaOnRails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome! This is a website (well, kind of a blog, more specifically) built using RubyOnRails where I'll talk about my journey learning RubyOnRails!<br>
+I don't have much more to say... Hope you enjoy it.
 
-Things you may want to cover:
+Feel free to clone the repository to make your own Rails blog or just create a new one using `rails new [blog_name_goes_here]`.<br>
+Stay safe, stay curious.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Happy coding!

@@ -1,5 +1,5 @@
 {
-  "name": "MetaOnRails",
+  "name": "meta_on_rails",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
